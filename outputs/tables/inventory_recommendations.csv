@@ -1,0 +1,2 @@
+item_id,store_id,history_start,history_end,observed_days,average_daily_demand,daily_demand_std,assumed_lead_time_days,assumed_review_period_days,assumed_service_level,safety_stock_units,expected_lead_time_demand,reorder_point_units,order_up_to_target_units,has_actual_on_hand_inventory,has_actual_supplier_lead_time
+FOODS_3_090,CA_3,2016-01-26,2016-04-24,90,108.46666666666667,36.99747941611789,7,7,0.95,162,759.2666666666667,921,1680,False,False

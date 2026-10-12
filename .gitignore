@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Raw datasets
+data/
+
+# Large generated files and databases
+outputs/cleaned_sales.parquet
+outputs/analytics.duckdb
+outputs/analytics.duckdb.wal
+outputs/duckdb_temp/
+
+# Secrets and temporary files
+.env
+*.log
+desktop.ini
+~$*.pbix
+~$*.xlsx

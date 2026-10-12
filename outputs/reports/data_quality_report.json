@@ -1,0 +1,16 @@
+{
+  "sales_rows": 30490,
+  "sales_columns": 1919,
+  "daily_sales_columns": 1913,
+  "calendar_rows": 1969,
+  "price_rows": 6841121,
+  "duplicate_product_ids": 0,
+  "duplicate_calendar_days": 0,
+  "duplicate_price_keys": 0,
+  "negative_sales_observations": 0,
+  "zero_sales_observations": 39777094,
+  "raw_missing_values_sales": 0,
+  "raw_missing_values_calendar": 7542,
+  "raw_missing_values_prices": 0,
+  "treatment": "Original CSVs preserved. Calendar event fields may be structurally missing. Missing prices remain NULL. No negative sales or duplicate records are silently removed."
+}
